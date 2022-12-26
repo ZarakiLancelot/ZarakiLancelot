@@ -1,6 +1,6 @@
 <h1 align="center">Hello people 👋!</h1>
 
-> Technical Developer Software.
+> Software Development Technician.
 > Universidad Galileo Galilei.
 > Guatemala, Guatemala.
 > [http://edwin-einsen.com/](http://edwin-einsen.com/)
