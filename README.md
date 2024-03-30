@@ -8,11 +8,9 @@
 Hello people, I'm Edwin Einsen Vásquez Velásquez.
 You can call me Einsen, I am a software developer enthusiast and a full-time student of computer systems.
 
-Here I have a blog about software development: [Blog - EdwinEinsen](https://developer-chapin.com).
+Here is a blog about software development: [Blog - EdwinEinsen](https://developer-chapin.com).
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zarakilancelot&show_icons=true)
-
-![Github Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=zarakilancelot&hide_langs_below=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zarakilancelot&show_icons=true) ![Github Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=zarakilancelot&hide_langs_below=1)
 
 ## Languages and Tools.
 <p align="left">
